@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumarAditya63/Leetcode-que/tree/master/0053-maximum-subarray) |
+| [0283-move-zeroes](https://github.com/KumarAditya63/Leetcode-que/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumarAditya63/Leetcode-que/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/KumarAditya63/Leetcode-que/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
