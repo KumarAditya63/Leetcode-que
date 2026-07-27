@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarAditya63/Leetcode-que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KumarAditya63/Leetcode-que/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/KumarAditya63/Leetcode-que/tree/master/0283-move-zeroes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/KumarAditya63/Leetcode-que/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KumarAditya63/Leetcode-que/tree/master/0169-majority-element) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KumarAditya63/Leetcode-que/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
