@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KumarAditya63/Leetcode-que/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/KumarAditya63/Leetcode-que/tree/master/2465-number-of-distinct-averages) |
 ## Divide and Conquer
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KumarAditya63/Leetcode-que/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KumarAditya63/Leetcode-que/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KumarAditya63/Leetcode-que/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/KumarAditya63/Leetcode-que/tree/master/2465-number-of-distinct-averages) |
 ## Counting
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KumarAditya63/Leetcode-que/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
