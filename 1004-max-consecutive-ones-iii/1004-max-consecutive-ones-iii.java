@@ -8,19 +8,16 @@ class Solution {
             if(nums[right] == 0){
                 zero++;
             }
-            while(zero >k){
+            while(zero > k){
                 if(nums[left] == 0){
                     zero--;
                 }
                 left++;
-
             }
-            int length = right -left +1;
-            ans  = Math.max(ans,length);
-
+            int length = right - left + 1;
+            ans = Math.max(length,ans);
         }
         return ans;
-
         
     }
 }
