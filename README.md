@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/KumarAditya63/Leetcode-que/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarAditya63/Leetcode-que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KumarAditya63/Leetcode-que/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KumarAditya63/Leetcode-que/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KumarAditya63/Leetcode-que/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KumarAditya63/Leetcode-que/tree/master/0287-find-the-duplicate-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KumarAditya63/Leetcode-que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KumarAditya63/Leetcode-que/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KumarAditya63/Leetcode-que/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KumarAditya63/Leetcode-que/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KumarAditya63/Leetcode-que/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KumarAditya63/Leetcode-que/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
