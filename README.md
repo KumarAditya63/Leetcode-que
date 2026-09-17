@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KumarAditya63/Leetcode-que/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KumarAditya63/Leetcode-que/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/1314-matrix-block-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/KumarAditya63/Leetcode-que/tree/master/1672-richest-customer-wealth) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/KumarAditya63/Leetcode-que/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KumarAditya63/Leetcode-que/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KumarAditya63/Leetcode-que/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/KumarAditya63/Leetcode-que/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/1991-find-the-middle-index-in-array) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/KumarAditya63/Leetcode-que/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/KumarAditya63/Leetcode-que/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
