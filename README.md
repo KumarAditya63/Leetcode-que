@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KumarAditya63/Leetcode-que/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/KumarAditya63/Leetcode-que/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/KumarAditya63/Leetcode-que/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KumarAditya63/Leetcode-que/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KumarAditya63/Leetcode-que/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KumarAditya63/Leetcode-que/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/KumarAditya63/Leetcode-que/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/KumarAditya63/Leetcode-que/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/KumarAditya63/Leetcode-que/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/KumarAditya63/Leetcode-que/tree/master/1768-merge-strings-alternately) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/KumarAditya63/Leetcode-que/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KumarAditya63/Leetcode-que/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/KumarAditya63/Leetcode-que/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/KumarAditya63/Leetcode-que/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/KumarAditya63/Leetcode-que/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
